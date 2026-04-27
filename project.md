@@ -14,13 +14,13 @@ and pace.
 ## Visualizations
 
 ### Distribution of Pre-Lecture Video Ratings
-![Bar Chart](../static/output.png)
+![Bar Chart](/CompProject/static/output.png)
 
 ### Difficulty vs Pre-Lecture Video Interest
-![Scatter 1](../static/outputplot.png)
+![Scatter 1](/CompProject/static/outputplot.png)
 
 ### Pace vs Pre-Lecture Video Interest
-![Scatter 2](../static/outputplot2.png)
+![Scatter 2](/CompProject/static/outputplot2.png)
 
 ## Conclusion
 
